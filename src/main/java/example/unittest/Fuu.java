@@ -3,6 +3,7 @@ package example.unittest;
 import java.time.LocalDate;
 
 public class Fuu {
+
     private String name;
     private float price;
     private LocalDate reelaseDate;
